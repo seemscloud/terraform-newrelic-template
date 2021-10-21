@@ -1,0 +1,4 @@
+.idea
+.states
+.terraform
+.terraform.lock.hcl
